@@ -232,3 +232,9 @@ The application displays an error message if:
 The goal of this project is to provide a simple graphical tool for quickly plotting element concentration data from Excel files without manual column configuration.
 
 The application automatically uses the Excel header row to determine the plotted elements, making it suitable for datasets where the measured element list may vary between files.
+
+AI Assistance Disclosure
+
+This project was created with assistance from artificial intelligence.
+
+Code structure, documentation, and README content were developed with the help of OpenAI ChatGPT, using the GPT-5.5 Thinking model. The final implementation, testing, and responsibility for the project remain with the repository maintainer.
